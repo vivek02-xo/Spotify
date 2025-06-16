@@ -262,3 +262,38 @@ a{
     border-radius: 50%;
     margin-top:-6px
 }
+
+.album{
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+}
+
+.album-song-img img{
+    height: 46px;
+    border-radius: 0.25rem;
+}
+
+.album-song-name {
+    margin-left: 1rem;
+}
+
+.s-name a{
+    font-size: 0.85rem;
+}
+
+.singer {
+    font-size: 0.7rem;
+    opacity: 0.6;
+}
+.singer a:hover{
+    opacity: 0.8;
+}
+.album-plus-icon {
+    margin-left: 0.7rem;
+}
+
+.album-plus-icon{
+    font-size: 0.85rem;
+}
+
