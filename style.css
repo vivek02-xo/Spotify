@@ -297,3 +297,21 @@ a{
     font-size: 0.85rem;
 }
 
+.controls{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fa-play{
+    font-size: 1rem;
+    margin-left: 2rem;
+}
+.fa-music{
+}
+
+.fa-list{
+    font-size: 1rem;
+}
+
+
